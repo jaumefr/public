@@ -1,2 +1,2 @@
 # public
-Repositori públic de'n Jaume Ferrer
+Repositori públic de prototips i d'invents diversos
